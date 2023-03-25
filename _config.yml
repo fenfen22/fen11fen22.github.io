@@ -22,13 +22,13 @@ title: SocialData2023
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
  go to 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/_posts" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-layout : article
+# layout : article
 title: SocialData2023
 mathjax: true
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/_posts" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
